@@ -1,3 +1,8 @@
+# App-specific entries
+documents/*.txt
+
+
+# Below entries are from the GitHub standard template for Node.js
 # Logs
 logs
 *.log

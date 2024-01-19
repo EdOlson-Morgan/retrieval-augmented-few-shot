@@ -1,0 +1,16 @@
+{
+  "name": "retrieval-augmented-few-shot",
+  "version": "0.1.0",
+  "description": "JS-based utility for performing retrieval-augmented few-shot (RAF) generative AI queries",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Ed Olson-Morgan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "openai": "^4.24.7"
+  }
+}
